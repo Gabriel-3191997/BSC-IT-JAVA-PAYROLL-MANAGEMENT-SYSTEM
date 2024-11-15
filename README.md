@@ -1,11 +1,13 @@
+Blue Crest University
 payroll management system
 Semester 6
-Blue Crest University
 Bachelor's Degree Information Technology
 =========================================
 
+Programming Langauge: Java
+
 Instruction
-------------
+
 
 Payroll Management System
 
